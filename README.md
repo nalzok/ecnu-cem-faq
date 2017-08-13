@@ -10,7 +10,7 @@ To me, a [lazy][lazy] man, this routine is extremely inelegant, so I started thi
 
 ## Goal
 
-We aims to build a F\[requently\]A\[sked\]Q\[uestion\] knowledge base, where most questions a freshman may have have presumably been answered. In addition, when a new question is asked, everyone can see the question and corresponding answer, so similiar questions won't be asked again.
+It aims to build a F\[requently\]A\[sked\]Q\[uestion\] knowledge base, where most questions a freshman may have have presumably been answered. In addition, when a new question is asked, everyone can see the question and corresponding answer, so similiar questions won't be asked again.
 
 
 ## Features
@@ -26,7 +26,7 @@ We aims to build a F\[requently\]A\[sked\]Q\[uestion\] knowledge base, where mos
 
 If you want to report an error, or add an entry, or start a discussion, please [create an issue][issue], and we will update the repo as soon as possible. You can also comment below others' issues to discuss them. And of course, you can support this project simply by sharing it with your friends!
 
-However, there are some rules that you should keep in mind when contributing. **READ THEM CAREFULLY**
+However, there are some rules that you should keep in mind when contributing. **DO READ THEM CAREFULLY!**
 
 + General:
 
