@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I've noticed that identical questions had been asked many times by different freshmen in multiple QQ groups, and old students had to answer them seperately. Moreover, some of these questions can actually be answered by a chatbot named "凛" (it's really cute, by the way), whose capability is apparently underestimated.
+I've noticed that identical questions had been asked many times by different freshmen in multiple QQ groups, and old students had to answer them seperately. Moreover, some of these questions can actually be answered by a chatbot named "凛" (they is cute, by the way), whose capability is apparently underestimated.
 
 To me, a [lazy][lazy] man, this routine is extremely inelegant, so I started this project, which is an attempt to deliver the relevent information to freshmen who have any doubt in an efficient way.
 
@@ -24,9 +24,11 @@ It aims to build a F\[requently\]A\[sked\]Q\[uestion\] knowledge base, where mos
 
 ## How To Contribute
 
+It's really easy!
+
 You have to [join Github][join] before you can make any contribution.
 
-If you want to report an error, or add an entry, or start a discussion, please [create an issue][issue], and we will update the repo as soon as possible. You can also comment below others' issues to discuss them. And of course, you can support this project simply by sharing it with your friends!
+If you want to report an error, or add an entry, or start a discussion, please [create an issue][issue], and we will update the repo as soon as possible. You can also comment below others' issues to discuss them. And of course, supporting this project by simply sharing it with your friends is an option, too!
 
 Please remember that this is going to be a big project, and *every bit counts*.
 
@@ -64,14 +66,14 @@ There are some rules that you should keep in mind when contributing. **DO READ T
   + Be specific. No gossiping.
 
 
-## Meta FAQ
+## Meta Q&A
 
 + Q: Why is this project in English?
-+ A: This project is actually in Chinese; only its README is in English. I believe writing project descriptions in English is an unspoken rule of Github, and I see no special reasons to break it in this case. It is possible to have a Chinese version someday, though.
++ A: ~~Well, I'm just too lazy to write a Chinese version.~~ This project is actually in Chinese; only its README is in English. I believe writing project descriptions in English is an unspoken rule of Github, and I see no special reasons to break it in this case. It is still possible that we'll have a Chinese version someday, though.
 
 
+Any advice or contribution would be appreciated!
 
-So this is going to be a big project, and every bit counts. Your contribution is greatly appreciated by us, no matter how little it is.
 
 
   [join]: https://github.com/join
