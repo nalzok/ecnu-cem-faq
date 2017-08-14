@@ -33,7 +33,7 @@ If you want to report an error, or add an entry, or start a discussion, please [
 Please remember that this is going to be a big project, and *every bit counts*.
 
 
-## Contribution Guidelines
+## Contribution Guidelines (draft)
 
 There are some rules that you should keep in mind when contributing. **DO READ THEM CAREFULLY!!!**
 
@@ -44,7 +44,7 @@ There are some rules that you should keep in mind when contributing. **DO READ T
 + When reporting errors:
 
   + The issue's title should begin with a `[ER]`(error report).
-  + Add a link to the page in question.
+  + Add a link to the readthedocs page in question, and a link to the last issue concerning that page.
   + Quote the paragraph where the error resides.
   + Explain what the errors are, and how to fix them.
 
