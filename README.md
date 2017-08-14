@@ -51,7 +51,7 @@ There are some rules that you should keep in mind when contributing. **DO READ T
 + When adding new entries:
 
   + The issue's title should begin with a `[NE]`(new entry).
-  + Since this project features the Q&A form, *the title must be in the form of a question*.
+  + Since this project features the Q&A form, *the title must be in the form of a question*. This means when you have some great stuff to share with others, please come up with a corresponding question first.
   + Open a title-only issue before starting writing the answer. You can edit the issue description later. This avoids people working on the same topic without knowing each other.
 
     + If you are a freshman who don't know the answer to your question, indicate this by changing the title tag from `[NE]` to `[NEW]`(new entry - waiting).
