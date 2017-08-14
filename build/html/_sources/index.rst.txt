@@ -6,7 +6,9 @@
 欢迎来到华东师范大学经管书院!
 =============================
 
-balabala
+`View project on Github`_
+
+.. _View project on Github: https://github.com/sunqingyao/ecnu-cem-faq
 
 
 .. toctree::
